@@ -1,0 +1,6 @@
+List of function names:
+Parallax: d = b / theta
+Distance Modulus (not finished)
+Hubbles Law (dont use apostrophe in Hubble's) v = Ho * d
+Kelvin-Wavelength: lambda(max) = 2.93x10^-3 / T
+Apparent Brightness: b = L / 4pi*d^2
